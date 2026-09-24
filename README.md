@@ -1,3 +1,5 @@
+> **Upload status (2026-09-24):** This repository currently contains documentation only. The backend and Flutter source have not yet been pushed. The setup commands below will work only after those directories are uploaded. Do not present this repository as a runnable demo yet.
+
 # Laravel Market — Laravel + MySQL + Flutter
 
 Independent learning portfolio project featuring a Laravel 12 e-commerce storefront and admin dashboard, REST API, MySQL database, and a separate Flutter Android customer app.
@@ -35,9 +37,7 @@ The local web storefront is at http://127.0.0.1:8000, with admin login at /login
 
 ## Documentation
 
-- [Client demo](CLIENT_DEMO.md)
-- [Mobile setup](mobile/README.md)
-- [Publishing guide](PUBLISH_TO_GITHUB.md)
+The client demo, mobile setup, and publishing guides are in the separately prepared source archive; they are not yet committed here.
 
 ## Scope and status
 
